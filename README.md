@@ -8,7 +8,7 @@
 * PyQt5
 * imageio
 
-[![](tmp/output.mp4)]( https://youtu.be/s0WRdNgKHTQ "")
+[![]()](https://youtu.be/s0WRdNgKHTQ "")
 
 
 
