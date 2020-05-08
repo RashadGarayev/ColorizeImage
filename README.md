@@ -8,7 +8,7 @@
 * PyQt5
 * imageio
 
-## Clone the master branch of the respository using git clone -b master --single-branch https://github.com/RashadGarayev/ColorizeImage.git
+#### Clone the master branch of the respository using git clone -b master --single-branch https://github.com/RashadGarayev/ColorizeImage.git
 
 
 ```cd ColorizeImage```
