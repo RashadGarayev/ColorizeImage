@@ -15,10 +15,21 @@
 
 Install the required packages by executing the following command.
 
-`$ pip install -r requirements.txt`
+`$ pip3 install -r requirements.txt`
 ### Usage
 
 ### Installation caffe model
 `$ cd models/` 
 
 `$ wget http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel -O ./models/colorization_release_v2.caffemodel`
+
+`$ cd ..`
+
+`$ python3 main.py` 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+#### Tested
+
+
+![Conv](tmp/color.jpg)      ![Conv](tmp/color1.jpg)
