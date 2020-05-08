@@ -6,8 +6,6 @@ import cv2,sys,os,datetime,time
 import numpy as np
 from PyQt5.QtWidgets import *
 import imageio,helper
-from PyQt5.QtMultimedia import QMediaPlayer, QMediaContent
-from PyQt5.QtMultimediaWidgets import QVideoWidget
 class Window(QWidget):
     def __init__(self):
         """-----------------------------"""
