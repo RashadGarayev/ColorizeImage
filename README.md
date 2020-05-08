@@ -8,6 +8,15 @@
 * PyQt5
 * imageio
 
+
+#### Tested
+
+
+![Conv](tmp/color.jpg)      ![Conv](tmp/color1.jpg)
+
+
+
+
 #### Clone the master branch of the respository using git clone -b master --single-branch https://github.com/RashadGarayev/ColorizeImage.git
 
 
@@ -29,7 +38,3 @@ Install the required packages by executing the following command.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-#### Tested
-
-
-![Conv](tmp/color.jpg)      ![Conv](tmp/color1.jpg)
