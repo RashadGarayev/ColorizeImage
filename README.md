@@ -19,5 +19,6 @@ Install the required packages by executing the following command.
 ### Usage
 
 ### Installation caffe model
-`$ cd models/`
+`$ cd models/` 
+
 `$ wget http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel -O ./models/colorization_release_v2.caffemodel`
