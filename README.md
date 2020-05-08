@@ -9,10 +9,7 @@
 * imageio
 
 
-#### Tested
 
-
-![Conv](tmp/color.jpg)      ![Conv](tmp/color1.jpg)
 
 
 
@@ -37,4 +34,7 @@ Install the required packages by executing the following command.
 `$ python3 main.py` 
 
 ---------------------------------------------------------------------------------------------------------------------------
+#### Tested
 
+
+![Conv](tmp/color.jpg)      ![Conv](tmp/color1.jpg)
