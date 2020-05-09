@@ -2,10 +2,10 @@ from PyQt5.QtWidgets import QApplication,QDialog,QWidget
 from PyQt5.uic import loadUi
 from PyQt5.QtGui import*
 from PyQt5.QtCore import*
-import cv2,sys,os,datetime,time
+import cv2,sys,os,datetime,time,imageio,helper
 import numpy as np
 from PyQt5.QtWidgets import *
-import imageio,helper
+
 class Window(QWidget):
     def __init__(self):
         """-----------------------------"""
